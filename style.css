@@ -1,10 +1,17 @@
 :root {
-    --color-primary: #4B69FD;
+    /* --color-primary: #4B69FD;
     --color-secondary: #FFF9EB;
     --color-tertiary: #C4C4C4;
     --color-button: #fe652b;
     --color-button-hover: #e55720;
     --color-text: #444444;
+    --color-white: #FFFFFF; */
+    --color-primary: #4C3C64;
+    --color-secondary: #FFF9EB;
+    --color-tertiary: #D1CFC7;      
+    --color-button: #FE652B;
+    --color-button-hover: #E55720;
+    --color-text: #333333;
     --color-white: #FFFFFF;
 }
 
