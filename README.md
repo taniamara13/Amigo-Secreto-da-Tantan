@@ -39,11 +39,10 @@ Neste projeto, apliquei e aprofundei os seguintes conceitos:
 Desenvolvido por **Tânia**, como parte do desafio de aprendizado da [Alura](https://www.alura.com.br/) e **[Oracle Next Education](https://www.oracle.com/br/education/oracle-next-education/)**.
 Este projeto é um marco importante na minha jornada de programação e uma demonstração prática das habilidades adquiridas.
 
----
 ## 🚀 Projeto Online
 
 Este projeto foi implantado no Vercel. Você pode acessá-lo [clicando aqui](https://amigo-secreto-da-tantan.vercel.app/).
----
+
 ## 📷 Preview
 
 ![imagem Amigo Secreto](assets/pagina-principal-amigosecreto.png)
