@@ -1,4 +1,6 @@
-<h1 align="center"> Sorteio Individual de Amigo (Desafio "Amigo Secreto") </h1>
+<h1> 
+  <img src="assets/Sorteio.png" alt="Ícone de Sorteio" width="40">Sorteio Individual de Amigo (Desafio "Amigo Secreto") 
+</h1>
 
 
 <p style="text-align: justify; text-indent: 20px;">
@@ -9,6 +11,14 @@ Este projeto faz parte do desafio do programa ONE (Oracle Next Education), uma i
   <img src="assets/amigo-secreto.png" alt="Imagem do Projeto Sorteio Individual de Amigo">
 </p>
 
-<h1 align="center">
-  <img src="assets/sorteio.png" alt="Ícone de Sorteio" width="40"> Projeto Amigo Secreto
-</h1>
+## ⚙️ Funcionalidades
+
+- **Adicionar Participantes:** Permite inserir os nomes das pessoas que farão parte do sorteio. O sistema valida os campos para evitar entradas vazias ou repetidas.
+- **Visualização Dinâmica:** A lista de nomes é atualizada em tempo real, possibilitando que o usuário visualize e confira os amigos adicionados.
+- **Realizar o Sorteio:** Com um simples clique, a aplicação sorteia de forma totalmente aleatória um nome da lista.
+
+## 🛠️ Tecnologias utilizadas
+
+- **HTML5**: estrutura da página
+- **CSS3**: estilização e responsividade
+- **JavaScript**: lógica de funcionamento e sorteio
