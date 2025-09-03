@@ -22,3 +22,37 @@ Este projeto faz parte do desafio do programa ONE (Oracle Next Education), uma i
 - **HTML5**: estrutura da página
 - **CSS3**: estilização e responsividade
 - **JavaScript**: lógica de funcionamento e sorteio
+
+---
+
+## 🎓 Habilidades Aprimoradas: 
+
+Neste projeto, apliquei e aprofundei os seguintes conceitos:
+
+- **Estrutura HTML Semântica**: Organização do projeto com tags como `<main>`, `<header>`, `<section>`, e `<ul>` para melhorar a acessibilidade e a clareza do código.
+- **Estilização com CSS Avançado**: Uso de **variáveis CSS (`:root`)** para padronizar cores e **Flexbox (`display: flex`)** para criar layouts responsivos e centralizar elementos.
+- **Manipulação do DOM**: Seleção e alteração de elementos HTML com JavaScript para atualizar a interface dinamicamente.
+- **Lógica de Programação**: Implementação de funções, condicionais e laços de repetição para gerenciar a lógica de adição de nomes e o sorteio.
+
+## 👩🏽‍💻 Autora
+
+Desenvolvido por **Tânia**, como parte do desafio de aprendizado da [Alura](https://www.alura.com.br/) e **[Oracle Next Education](https://www.oracle.com/br/education/oracle-next-education/)**.
+Este projeto é um marco importante na minha jornada de programação e uma demonstração prática das habilidades adquiridas.
+
+---
+
+## 📷 Preview
+
+![imagem Amigo Secreto](assets/amigo-secreto.png)
+
+---
+
+## 💡 Projeto Open Source
+
+Desenvolvido como laboratório de aprendizado, este projeto convida você a:
+- ✨ Explorar e entender o código
+- 🔀 Fazer fork e criar suas próprias versões  
+- 🤝 Contribuir com melhorias
+- 📖 Usar como referência em seus estudos
+
+*O conhecimento cresce quando compartilhado!*
