@@ -43,7 +43,7 @@ Este projeto é um marco importante na minha jornada de programação e uma demo
 
 ## 📷 Preview
 
-![imagem Amigo Secreto](assets/amigo-secreto.png)
+![imagem Amigo Secreto](assets/pagina-principal-amigosecreto.png)
 
 ---
 
